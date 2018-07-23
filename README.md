@@ -5,7 +5,7 @@ Strats for R6 Siege
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Tacnet.io - Real-time Tactics</title>
+    <title>R6 Strats - Real-time Tactics</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="description" content="Tacnet is a tool that lets teams construct tactics in real-time, without any registration or installation.">
     <meta name="keywords" content="Tacnet,tacticsharing,bf3,bf4,csgo,cod,lol,dota2,tactics live,collaborate,atc">
